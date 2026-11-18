@@ -24,11 +24,6 @@ I'm a full-stack developer who enjoys building things that are fun or solve real
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-## GitHub stats
-<p>
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Suyashh-28&show_icons=true&hide_border=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyashh-28&layout=compact&hide_border=true" />
-</p>
 
 ## Find me
 - 📫 suyashhh28@gmail.com
